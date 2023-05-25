@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/25_540x.png?v=1643625406",
+        "name": "Astor Watch Series 4",
+        "price": "$999.00",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_e46e05e8-ad4f-43fa-8147-ec6f5f11339e_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28_b79dc524-d48e-404d-8384-0358251f2d03_540x.png?v=1643625211",
+        "price": "$999.00",
+        "name": "Watch Gold Series 4",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_e46e05e8-ad4f-43fa-8147-ec6f5f11339e_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_01357c15-0fe7-4bb6-9db6-6307952f5c71_540x.png?v=1643625406",
+        "name": "Watch Black Series 4",
+        "price": "$999.00",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_e46e05e8-ad4f-43fa-8147-ec6f5f11339e_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_icon_crop_center.png?v=1643625211"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_540x.jpg?v=1643628035",
+        "name": "iPad Air 2020 12.9 Inch",
+        "price": "$599.00",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_19505975-88bc-40fd-bf0d-1cd746cdc67a_icon_crop_center.jpg?v=1643628035",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_icon_crop_center.jpg?v=1643627742",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_icon_crop_center.jpg?v=1643627742"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_540x.jpg?v=1643627967",
+        "name": "Astor iPad Pro 12.9 Inch",
+        "price": "$599.00",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_19505975-88bc-40fd-bf0d-1cd746cdc67a_icon_crop_center.jpg?v=1643628035",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_icon_crop_center.jpg?v=1643627742",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_icon_crop_center.jpg?v=1643627742"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_540x.jpg?v=1643627967",
+        "name": "Astor iPad Pro 11 Inch",
+        "price": "$599.00",
+        "colors": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_19505975-88bc-40fd-bf0d-1cd746cdc67a_icon_crop_center.jpg?v=1643628035",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_icon_crop_center.jpg?v=1643627742",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_icon_crop_center.jpg?v=1643627742"
+        ]
+    }
+]

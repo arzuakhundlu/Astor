@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name": "Astor iPhone 13 Pro",
+        "price": "$150.00",
+        "rating": 0,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_1f747b29-001e-450f-8939-d619d6479bca_small.jpg?v=1643606162",
+        "type": "new_arrivals"
+    },
+    {
+        "id":2,
+        "name": "Astor iPhone 12 Pro",
+        "price": "$80.00",
+        "rating": 4,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6_small.jpg?v=1643602786",
+        "type": "new_arrivals"
+    },
+    {
+        "id":3,
+        "name": "Astor iPhone 13 mini",
+        "price": "$150.00",
+        "rating": 0,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32_small.jpg?v=1643606073",
+        "type": "new_arrivals"
+    },
+    {
+        "id":4,
+        "name": "iPad Air 2020 12.9 Inch",
+        "price": "$599.00",
+        "rating": 0,
+        "image": "//cdn.shopify.com/s/files/1/0023/4104/4283/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_small.jpg?v=1643628035",
+        "type": "featured_products"
+    },
+    {
+        "id":5,
+        "name": "Astor iPad Pro 12.9 Inch",
+        "price": "$599.00",
+        "rating": 0,
+        "image": "//cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e_small.png?v=1643627552",
+        "type": "featured_products"
+    },
+    {
+        "id":6,
+        "name": "Astor iPad Pro 11 Inch",
+        "price": "$599.00",
+        "rating": 5,
+        "image": "//cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e_small.png?v=1643627552",
+        "type": "featured_products"
+    },
+    {
+        "id":7,
+        "name": "Astor Macbook Pro 16 inch",
+        "price": "$1,999.00",
+        "rating": 0,
+        "image": "//cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e_small.png?v=1643627552",
+        "type": "best_seller"
+    },
+    {
+        "id":8,
+        "name": "MacBook Pro 13 with M1",
+        "price": "$100.00",
+        "rating": 0,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6_small.jpg?v=1643602786",
+        "type": "best_seller"
+    },
+    {
+        "id":9,
+        "name": "MacBook air with M1",
+        "price": "$1,999.00",
+        "rating": 3,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32_small.jpg?v=1643606073",
+        "type": "best_seller"
+    }
+    
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Astor iPhone 13 Pro",
+        "price": "$150.00",
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/10_14171a3c-970c-462d-8c28-6ec483df7031.jpg?v=1643606109",
+        "color": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162"    
+            ]    
+    },
+    {
+        "id": 2,
+        "name": "Astor iPhone 13 Pro",
+        "price": "$150.00",
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_378764fb-e08d-40a3-9e5c-80b25d22f558_540x.jpg?v=1643606073",
+        "color": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162"    
+            ]    
+    },
+    {
+        "id": 3,
+        "name": "Astor iPhone 13 Pro",
+        "price": "$150.00",
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/10_14171a3c-970c-462d-8c28-6ec483df7031.jpg?v=1643606109",
+        "color": [
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_icon_crop_center.jpg?v=1643606162",
+            "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_icon_crop_center.jpg?v=1643606162"    
+            ]    
+    }    
+]

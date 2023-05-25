@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/files/b2_540x.jpg?v=1643520859",
+        "name": "Smart WATCHES",
+        "price": "FROM $45"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/files/b1_540x.jpg?v=1643522570",
+        "name": "IPAD & IPAD AIR",
+        "price": "FROM $99"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.shopify.com/s/files/1/0023/4104/4283/files/b1_540x.png?v=1643522992",
+        "name": "TV & VIDEO",
+        "price": "FROM $17"
+    }
+]
