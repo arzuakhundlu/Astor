@@ -1,3 +1,3 @@
 # Astor
 
-Link view : astor-ecommerce.netlify.app
+Link view : (https://astor-ecommerce.netlify.app/)
